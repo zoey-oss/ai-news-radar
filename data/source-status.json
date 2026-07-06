@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-06T15:59:52.973423Z",
+  "generated_at": "2026-07-06T18:17:27.931222Z",
   "sites": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 873,
+      "duration_ms": 516,
       "error": null
     },
     {
@@ -21,8 +21,8 @@
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 516,
-      "duration_ms": 15521,
+      "item_count": 349,
+      "duration_ms": 11517,
       "error": null
     },
     {
@@ -30,15 +30,15 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 975,
+      "duration_ms": 1069,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3026,
-      "duration_ms": 1582,
+      "item_count": 3016,
+      "duration_ms": 1528,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Zeli",
       "ok": true,
       "item_count": 80,
-      "duration_ms": 764,
+      "duration_ms": 449,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 165,
+      "duration_ms": 150,
       "error": null
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1236,
+      "duration_ms": 1053,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "AI今日热榜",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 79,
+      "duration_ms": 234,
       "error": "403 Client Error: Forbidden for url: https://aihot.today/"
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "NewsNow",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 529,
+      "duration_ms": 685,
       "error": "'ascii' codec can't decode byte 0xc2 in position 76534: ordinal not in range(128)"
     }
   ],
@@ -88,9 +88,9 @@
     "newsnow"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 4793,
-  "items_before_topic_filter": 5843,
-  "items_in_24h": 725,
+  "fetched_raw_items": 4616,
+  "items_before_topic_filter": 6504,
+  "items_in_24h": 780,
   "rss_opml": {
     "enabled": false,
     "path": null,
